@@ -1,0 +1,48 @@
+.bck-gray{
+	background: #F8F3F3;
+	padding: 40px 50px;
+}
+h3, p{
+	color: white;
+	text-align: center;
+}
+.titulo{
+	padding: 30px;
+	color: black;
+}
+.img-size{
+	background-size: 380px 480px;
+	width: 380px;
+	height: 480px;
+}
+.img-especial{
+	margin-bottom: 25px;	
+}
+.ballet{
+	background-image: url(../img/dance_12.jpg);
+}
+.break-dance{
+	background-image: url(../img/breakdance.jpg);
+}
+.jazz{
+	background-image: url(../img/lirical-jazz.jpg);
+}
+.arabe-dance{
+	background-image: url(../img/arabe.jpg);
+}
+.ballet-pequeña{
+	background-image: url(../img/little.jpg);
+}
+.yoga{
+	background-image: url(../img/yoga.jpg);
+}
+.txt{
+	width: 350px;
+	height: 180px;
+	border: 1px solid black;
+	background-color: black;
+	margin:0 auto;
+	opacity: 0.6;
+	position: relative;
+	top:180px;
+}
